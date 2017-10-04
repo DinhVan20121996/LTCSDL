@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\bin\Debug\Bai4_B3.exe
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\bin\Debug\Bai4_B3.pdb
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\obj\x86\Debug\Bai4_B3.Form1.resources
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\obj\x86\Debug\Bai4_B3.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\obj\x86\Debug\Bai4_B3.exe
+D:\Visual Studio 2010\Projects\Bai4_B3\Bai4_B3\obj\x86\Debug\Bai4_B3.pdb
